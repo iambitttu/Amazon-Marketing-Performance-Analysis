@@ -1,4 +1,4 @@
-# Marketing-Performance-Analysis
+# Amazon Marketing-Performance-Analysis
 ![Marketing Performance Analysis](https://github.com/iambitttu/Marketing-Performance-Analysis/assets/117813323/5dcb2902-d4da-45fe-8ee9-c81622ac6537)
 
 *Data Preparation and Dashboard Creation:*
